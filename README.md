@@ -1,4 +1,10 @@
 # Ex.no.8-Building-a-Simple-College-Admission-Chatbot
+NAME: NETHELAN M
+
+REG.NO.: 212225060182
+
+DATE: 27/11/2026
+
 ## Aim :
  To design, implement and test a simple rule-based chatbot in Python that answers frequently asked questions related to college admissions, such as courses offered, eligibility criteria, fees, application process, required documents, important dates, hostel facilities and contact details.
 ### Introduction
